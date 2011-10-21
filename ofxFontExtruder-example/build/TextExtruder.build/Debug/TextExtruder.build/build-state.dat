@@ -1,363 +1,0 @@
-TTextExtruder
-v4
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/Info.plist openFrameworks-Info.plist
-cProcessPCH++ /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cybiyjxacitroqgryhcttyvtlpxj/Carbon.h.pth /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/main.o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/testApp.o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLExporter.o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLExporter.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLImporter.o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLImporter.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxFontExtruder.o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxFontExtruder/ofxFontExtruder.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxMesh.o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxMesh/ofxMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/MacOS/TextExtruderDebug normal i386
-cPhaseScriptExecution "Run Script" /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-cPBXCp ../../../libs/glut/lib/osx/GLUT.framework bin/TextExtruderDebug.app/Contents/Frameworks/GLUT.framework
-cTouch /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004E9C636D00000000000000EE
-t1318871917
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
-c000000004E20939E00000000000005FF
-t1310757790
-s1535
-
-N/System/Library/Frameworks/AGL.framework/AGL
-c000000004DEEB9110000000000043820
-t1307490577
-s276512
-
-N/System/Library/Frameworks/AppKit.framework/AppKit
-c000000004DB8539B0000000002B5C7A0
-t1303925659
-s45467552
-
-N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-c000000004A12050E0000000000022140
-t1242694926
-s139584
-
-N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
-c000000004DD5EC60000000000051BA20
-t1305865312
-s5356064
-
-N/System/Library/Frameworks/Carbon.framework/Carbon
-c000000004DF9CD1C000000000000A5F0
-t1308216604
-s42480
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004A1F2D63000000000000A5E0
-t1243557219
-s42464
-
-N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
-c000000004DEEB6D200000000002181A0
-t1307490002
-s2195872
-
-N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-c000000004DBF2B880000000000781330
-t1304374152
-s7869232
-
-N/System/Library/Frameworks/CoreServices.framework/CoreServices
-c000000004C23F49F0000000000021710
-t1277424799
-s136976
-
-N/System/Library/Frameworks/IOKit.framework/IOKit
-c000000004DE8236E000000000017B260
-t1307059054
-s1552992
-
-N/System/Library/Frameworks/OpenGL.framework/OpenGL
-c000000004DEEB8140000000000043360
-t1307490324
-s275296
-
-N/System/Library/Frameworks/QuickTime.framework/QuickTime
-c000000004DE5A33C0000000000785970
-t1306895164
-s7887216
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLExporter.cpp
-c000000004E9F1FDE000000000000071B
-t1319051230
-s1819
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLImporter.cpp
-c000000004B2A83D20000000000000777
-t1261077458
-s1911
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxFontExtruder/ofxFontExtruder.cpp
-c000000004EA082850000000000000D94
-t1319142021
-s3476
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxMesh/ofxMesh.cpp
-c000000004EA074F10000000000000629
-t1319138545
-s1577
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../libs/glut/lib/osx/GLUT.framework
-c000000004D99834A00000000000000CC
-t1301906250
-s204
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../libs/glut/lib/osx/GLUT.framework/GLUT
-c000000004D99834A0000000000092A98
-t1301906250
-s600728
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app
-t2
-s0
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/Frameworks/GLUT.framework
-t2
-s0
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/Info.plist
-t2
-s0
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/MacOS/TextExtruderDebug
-t2
-s0
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/PkgInfo
-t2
-s0
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/TextExtruderDebug.LinkFileList
-c000000004EA08C34000000000000038B
-t1319144500
-s907
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/main.o
-t2
-s0
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxFontExtruder.o
-t2
-s0
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxMesh.o
-t2
-s0
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLExporter.o
-t2
-s0
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLImporter.o
-t2
-s0
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/testApp.o
-t2
-s0
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-c000000004EA08C340000000000000114
-t1319144500
-s276
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/main.cpp
-c000000004EA020A000000000000001E1
-t1319116960
-s481
-
-N/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/testApp.cpp
-c000000004EA082930000000000000818
-t1319142035
-s2072
-
-N/Users/rick/OpenFrameworks007/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
-c000000004E9E1E5B00000000017370E0
-t1318985307
-s24342752
-
-N/var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cybiyjxacitroqgryhcttyvtlpxj/Carbon.h.pth
-t2
-s0
-
-NopenFrameworks-Info.plist
-c000000004E26C9240000000000000277
-t1311164708
-s631
-
-CBuild AST from /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLExporter.cpp
-r0
-
-CBuild AST from /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLImporter.cpp
-r0
-
-CBuild AST from /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxFontExtruder/ofxFontExtruder.cpp
-r0
-
-CBuild AST from /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxMesh/ofxMesh.cpp
-r0
-
-CBuild AST from /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/main.cpp
-r0
-
-CBuild AST from /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/testApp.cpp
-r0
-
-CCheck dependencies
-r0
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies279fdab4c350b441^5e11dcb4c350b441^---0#1#0#--18"Check dependencies36"F59A77AD-AF75-467C-8CC9-1E59E56CA886-
-
-CCompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/main.o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s340837303.407558
-e340837305.895407
-r1
-xCompileC
-xbuild/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/main.o
-x/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/main.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oclang: warning: -lpthread: 'linker' input unused when '-c' is present
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/main.cpp477768b7c350b441^cc44e5b9c350b441^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-340837303#0#70#-0#--21"Clang LLVM 1.0 Notice--0#0#0#-19%DVTDocumentLocation3@96"file://localhost/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/main.cpp0000000000000000^2778"CompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wparentheses -Wswitch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/TextExtruderDebug.hmap -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources/i386 -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cybiyjxacitroqgryhcttyvtlpxj/Carbon.h -MMD -MT dependencies -MF /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/main.d -c /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/main.cpp -o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/main.o36"D0A75603-8BB9-4098-8C6F-A325C7A79527-
-
-CCompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxFontExtruder.o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxFontExtruder/ofxFontExtruder.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s340837307.845154
-e340837309.956396
-r1
-xCompileC
-xbuild/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxFontExtruder.o
-x/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxFontExtruder/ofxFontExtruder.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oclang: warning: -lpthread: 'linker' input unused when '-c' is present
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxFontExtruder/ofxFontExtruder.cppe57dd8bbc350b441^94d9f4bdc350b441^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-340837307#0#70#-0#--21"Clang LLVM 1.0 Notice--0#0#0#-19%DVTDocumentLocation3@140"file://localhost/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxFontExtruder/ofxFontExtruder.cpp0000000000000000^2899"CompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxFontExtruder.o ../../../addons_rick/ofxFontExtruder/ofxFontExtruder.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wparentheses -Wswitch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/TextExtruderDebug.hmap -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources/i386 -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cybiyjxacitroqgryhcttyvtlpxj/Carbon.h -MMD -MT dependencies -MF /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxFontExtruder.d -c /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxFontExtruder/ofxFontExtruder.cpp -o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxFontExtruder.o36"5F3B61F8-34C5-4667-85D9-03F0E9B4762D-
-
-CCompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxMesh.o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxMesh/ofxMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s340837307.850390
-e340837309.459748
-r1
-xCompileC
-xbuild/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxMesh.o
-x/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxMesh/ofxMesh.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oclang: warning: -lpthread: 'linker' input unused when '-c' is present
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxMesh/ofxMesh.cpp8cdad9bbc350b441^72c175bdc350b441^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-340837307#0#70#-0#--21"Clang LLVM 1.0 Notice--0#0#0#-19%DVTDocumentLocation3@124"file://localhost/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxMesh/ofxMesh.cpp0000000000000000^2843"CompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxMesh.o ../../../addons_rick/ofxMesh/ofxMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wparentheses -Wswitch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/TextExtruderDebug.hmap -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources/i386 -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cybiyjxacitroqgryhcttyvtlpxj/Carbon.h -MMD -MT dependencies -MF /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxMesh.d -c /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons_rick/ofxMesh/ofxMesh.cpp -o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxMesh.o36"4B4C35D4-98BD-435A-9E81-2E8DEFBB9B8E-
-
-CCompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLExporter.o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLExporter.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s340837305.896801
-e340837307.849178
-r1
-xCompileC
-xbuild/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLExporter.o
-x/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLExporter.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oclang: warning: -lpthread: 'linker' input unused when '-c' is present
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLExporter.cpp07b7e5b9c350b441^f86cd9bbc350b441^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-340837305#0#70#-0#--21"Clang LLVM 1.0 Notice--0#0#0#-19%DVTDocumentLocation3@129"file://localhost/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLExporter.cpp0000000000000000^2874"CompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLExporter.o ../../../addons/ofxSTL/src/ofxSTLExporter.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wparentheses -Wswitch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/TextExtruderDebug.hmap -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources/i386 -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cybiyjxacitroqgryhcttyvtlpxj/Carbon.h -MMD -MT dependencies -MF /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLExporter.d -c /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLExporter.cpp -o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLExporter.o36"0BC31C08-D8F2-4365-AF9A-E6B0FCA67878-
-
-CCompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLImporter.o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLImporter.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s340837305.949941
-e340837307.843872
-r1
-xCompileC
-xbuild/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLImporter.o
-x/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLImporter.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oclang: warning: -lpthread: 'linker' input unused when '-c' is present
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLImporter.cppe84ff3b9c350b441^3d28d8bbc350b441^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-340837305#0#70#-0#--21"Clang LLVM 1.0 Notice--0#0#0#-19%DVTDocumentLocation3@129"file://localhost/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLImporter.cpp0000000000000000^2874"CompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLImporter.o ../../../addons/ofxSTL/src/ofxSTLImporter.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wparentheses -Wswitch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/TextExtruderDebug.hmap -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources/i386 -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cybiyjxacitroqgryhcttyvtlpxj/Carbon.h -MMD -MT dependencies -MF /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLImporter.d -c /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../addons/ofxSTL/src/ofxSTLImporter.cpp -o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/ofxSTLImporter.o36"FA0751A3-5821-4451-A3A4-E2834302DEE3-
-
-CCompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/testApp.o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s340837303.408323
-e340837305.948676
-r1
-xCompileC
-xbuild/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/testApp.o
-x/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/testApp.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oclang: warning: -lpthread: 'linker' input unused when '-c' is present
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/testApp.cppdfa968b7c350b441^fbeaf2b9c350b441^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-340837303#0#70#-0#--21"Clang LLVM 1.0 Notice--0#0#0#-19%DVTDocumentLocation3@99"file://localhost/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/testApp.cpp0000000000000000^2793"CompileC build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/testApp.o src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wparentheses -Wswitch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/TextExtruderDebug.hmap -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources/i386 -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cybiyjxacitroqgryhcttyvtlpxj/Carbon.h -MMD -MT dependencies -MF /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/testApp.d -c /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/src/testApp.cpp -o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/testApp.o36"A33721F9-2D4F-4EF4-B499-A2DDBB4E1EEF-
-
-CLd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/MacOS/TextExtruderDebug normal i386
-s340837309.958559
-e340837311.789652
-r1
-xLd
-x/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/MacOS/TextExtruderDebug
-xnormal
-xi386
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Link /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/MacOS/TextExtruderDebug7995f5bdc350b441^d42acabfc350b441^---0#0#0#--1660"Ld bin/TextExtruderDebug.app/Contents/MacOS/TextExtruderDebug normal i386    cd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang++ -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../libs/glut/lib/osx -filelist /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/TextExtruderDebug.LinkFileList -mmacosx-version-min=10.6 -dead_strip ../../../libs/poco/lib/osx/PocoFoundation.a ../../../libs/poco/lib/osx/PocoNet.a ../../../libs/poco/lib/osx/PocoXML.a ../../../libs/poco/lib/osx/PocoUtil.a ../../../libs/tess2/lib/osx/tess2.a ../../../libs/glew/lib/osx/glew.a ../../../libs/cairo/lib/osx/cairo-script-interpreter.a ../../../libs/cairo/lib/osx/cairo.a ../../../libs/cairo/lib/osx/pixman-1.a ../../../libs/fmodex/lib/osx/libfmodex.dylib ../../../libs/rtAudio/lib/osx/rtAudio.a -framework GLUT /Users/rick/OpenFrameworks007/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework OpenGL -framework QuickTime -framework AppKit -framework Cocoa -framework IOKit -o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/MacOS/TextExtruderDebug36"55D53CE2-01F6-44DB-A0C7-8D5B62817F7C-
-
-CPBXCp ../../../libs/glut/lib/osx/GLUT.framework bin/TextExtruderDebug.app/Contents/Frameworks/GLUT.framework
-s340837311.846581
-e340837311.917743
-r1
-xPBXCp
-x../../../libs/glut/lib/osx/GLUT.framework
-xbin/TextExtruderDebug.app/Contents/Frameworks/GLUT.framework
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy bin/TextExtruderDebug.app/Contents/Frameworks/GLUT.framework78d4d8bfc350b441^66f5eabfc350b441^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/Frameworks/GLUT.framework00f8a439dcffdf42^520"PBXCp ../../../libs/glut/lib/osx/GLUT.framework bin/TextExtruderDebug.app/Contents/Frameworks/GLUT.framework    cd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../libs/glut/lib/osx/GLUT.framework /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/Frameworks36"29C7CF12-7E2E-408A-AF0F-8E838C5F343F-
-
-CPhaseScriptExecution "Run Script" /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-s340837311.792803
-e340837311.827764
-r1
-xPhaseScriptExecution
-xRun Script
-x/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'7f15ccbfc350b441^8ae8d3bfc350b441^---0#0#0#--22518"PhaseScriptExecution "Run Script" build/TextExtruder.build/Debug/TextExtruder.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh    cd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER rick    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386"    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build    setenv BUILD_ROOT /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin    setenv CACHE_ROOT /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin    setenv CONFIGURATION_TEMP_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug    setenv CONTENTS_FOLDER_PATH TextExtruderDebug.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH TextExtruderDebug.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/TextExtruder.dst    setenv DWARF_DSYM_FILE_NAME TextExtruderDebug.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin    setenv EMBEDDED_PROFILE_NAME embedded.provisionprofile    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH TextExtruderDebug.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH TextExtruderDebug.app/Contents/MacOS    setenv EXECUTABLE_NAME TextExtruderDebug    setenv EXECUTABLE_PATH TextExtruderDebug.app/Contents/MacOS/TextExtruderDebug    setenv FILE_LIST /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH TextExtruderDebug.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin\"  \"/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 "\"/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME TextExtruderDebug.app    setenv GCC3_VERSION 3.3    setenv GCC_AUTO_VECTORIZATION YES    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_SSE3_EXTENSIONS YES    setenv GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS YES    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_MODEL_TUNING G4    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS NO    setenv GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO NO    setenv GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL NO    setenv GCC_WARN_UNINITIALIZED_AUTOS NO    setenv GCC_WARN_UNUSED_VALUE NO    setenv GCC_WARN_UNUSED_VARIABLE NO    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_CAIRO "\"../../../libs/cairo/include/cairo\""    setenv HEADER_FMODEX "\"../../../libs/fmodex/include\""    setenv HEADER_FREEIMAGE "\"../../../libs/FreeImage/include\""    setenv HEADER_FREETYPE "\"../../../libs/freetype/include\""    setenv HEADER_FREETYPE2 "\"../../../libs/freetype/include/freetype2\""    setenv HEADER_GLEW "\"../../../libs/glew/include\""    setenv HEADER_OF "\"../../../libs/openFrameworks/**\""    setenv HEADER_POCO "\"../../../libs/poco/include\""    setenv HEADER_RTAUDIO "\"../../../libs/rtaudio/include\""    setenv HEADER_SEARCH_PATHS "\"/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/include\" \"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtaudio/include\""    setenv HEADER_TESS2 "\"../../../libs/tess2/include\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE openFrameworks-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH TextExtruderDebug.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH TextExtruderDebug.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/TextExtruder.dst/Users/rick/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER rick    setenv INSTALL_PATH /Users/rick/Applications    setenv INSTALL_ROOT /tmp/TextExtruder.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH TextExtruderDebug.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/TextExtruderDebug-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEGACY_DEVELOPER_DIR /Developer/Library/Xcode/PrivatePlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin\"                                                              "    setenv LIB_CAIRO1 "\"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\""    setenv LIB_CAIRO2 "\"../../../libs/cairo/lib/osx/cairo.a\""    setenv LIB_CAIRO3 "\"../../../libs/cairo/lib/osx/pixman-1.a\""    setenv LIB_FMODEX "\"../../../libs/fmodex/lib/osx/libfmodex.dylib\""    setenv LIB_FREEIMAGE "\"../../../libs/FreeImage/lib/osx/freeimage.a\""    setenv LIB_FREETYPE "\"../../../libs/freetype/lib/osx/freetype.a\""    setenv LIB_GLEW "\"../../../libs/glew/lib/osx/glew.a\""    setenv LIB_GLUT "\"../../../libs/glut/lib/osx/GLUT.framework/Versions/A/GLUT\""    setenv LIB_POCOFOUNDATION "\"../../../libs/poco/lib/osx/PocoFoundation.a\""    setenv LIB_POCONET "\"../../../libs/poco/lib/osx/PocoNet.a\""    setenv LIB_POCOUTIL "\"../../../libs/poco/lib/osx/PocoUtil.a\""    setenv LIB_POCOXML "\"../../../libs/poco/lib/osx/PocoXML.a\""    setenv LIB_RTAUDIO "\"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv LIB_TESS "\"../../../libs/tess2/lib/osx/tess2.a\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal/i386/TextExtruderDebug.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH TextExtruderDebug.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 10K549    setenv MAC_OS_X_VERSION_ACTUAL 1068    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0608    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Objects-normal    setenv OBJROOT /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build    setenv OF_CORE_HEADERS "\"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtaudio/include\""    setenv OF_CORE_LIBS "\"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv OF_PATH ../../..    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CPLUSPLUSFLAGS "-D__MACOSX_CORE__ -lpthread"    setenv OTHER_LDFLAGS "\"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH TextExtruderDebug.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/PkgInfo    setenv PKGINFO_PATH TextExtruderDebug.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/MacOSX.platform    setenv PLATFORM_NAME macosx    setenv PLATFORM_PREFERRED_ARCH x86_64    setenv PLATFORM_PRODUCT_BUILD_VERSION 4C199    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH TextExtruderDebug.app/Contents/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH TextExtruderDebug.app/Contents/PrivateHeaders    setenv PRODUCT_NAME TextExtruderDebug    setenv PRODUCT_SETTINGS_PATH /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/openFrameworks-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT TextExtruder    setenv PROJECT_DERIVED_FILE_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/DerivedSources    setenv PROJECT_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    setenv PROJECT_FILE_PATH /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/TextExtruder.xcodeproj    setenv PROJECT_NAME TextExtruder    setenv PROJECT_TEMP_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build    setenv PUBLIC_HEADERS_FOLDER_PATH TextExtruderDebug.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH TextExtruderDebug.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_DIR /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_NAME macosx10.6    setenv SDK_PRODUCT_BUILD_VERSION 10K549    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH TextExtruderDebug.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH TextExtruderDebug.app/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    setenv SRCROOT /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_PLATFORMS macosx    setenv SYMROOT /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME TextExtruder    setenv TARGET_BUILD_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin    setenv TARGET_NAME TextExtruder    setenv TARGET_TEMP_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build    setenv TEMP_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build    setenv TEMP_FILES_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build    setenv TEMP_FILE_DIR /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build    setenv TEMP_ROOT /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build    setenv TEST_AFTER_BUILD NO    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH TextExtruderDebug.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER rick    setenv USER_APPS_DIR /Users/rick/Applications    setenv USER_LIBRARY_DIR /Users/rick/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH TextExtruderDebug.app/Contents/version.plist    setenv VERSION_INFO_BUILDER rick    setenv VERSION_INFO_FILE TextExtruderDebug_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:TextExtruderDebug  PROJECT:TextExtruder-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME TextExtruderDebug.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4C199    setenv XCODE_VERSION_ACTUAL 0420    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0420    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh36"AEBA676C-D621-4543-B093-9CDC48245763-
-
-CProcessInfoPlistFile /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/Info.plist openFrameworks-Info.plist
-s340837300.872933
-e340837300.918897
-r1
-xProcessInfoPlistFile
-x/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/Info.plist
-xopenFrameworks-Info.plist
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Process openFrameworks-Info.plistfa25eab4c350b441^5c3debb4c350b441^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/openFrameworks-Info.plist0000000000000000^501"ProcessInfoPlistFile bin/TextExtruderDebug.app/Contents/Info.plist openFrameworks-Info.plist    cd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    builtin-infoPlistUtility openFrameworks-Info.plist -genpkginfo /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app/Contents/Info.plist36"2FC40206-14F1-4774-AC8A-33CB76C9AC4D-
-
-CProcessPCH++ /Users/rick/Library/Developer/Xcode/DerivedData/TextExtruder-ftryvxctsggvjiatuybweymtsegw/Index/PrecompiledHeaders/Carbon-bgsflbmweeizcpdxpyagejohgkjp_ast/Carbon.h.pth /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH++ /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cybiyjxacitroqgryhcttyvtlpxj/Carbon.h.pth /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s340837300.922080
-e340837303.405461
-r1
-xProcessPCH++
-x/var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cybiyjxacitroqgryhcttyvtlpxj/Carbon.h.pth
-x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oclang: warning: -lpthread: 'linker' input unused when '-c' is present
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h4a40ecb4c350b441^7dcc67b7c350b441^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-340837301#0#70#-0#--21"Clang LLVM 1.0 Notice--0#0#0#-19%DVTDocumentLocation3@106"file://localhost/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^2797"ProcessPCH++ /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cybiyjxacitroqgryhcttyvtlpxj/Carbon.h.pth /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wparentheses -Wswitch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/TextExtruderDebug.hmap -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources/i386 -I/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/build/TextExtruder.build/Debug/TextExtruder.build/DerivedSources -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin -F/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cybiyjxacitroqgryhcttyvtlpxj/Carbon.h.pth -MMD -MT dependencies -MF /var/folders/n9/n9UpGCFsHQW0bdm5gfLoRE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cybiyjxacitroqgryhcttyvtlpxj/Carbon.h.d36"A01AA161-6A85-4A7C-94C2-358447A152D5-
-
-CTouch /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app
-s340837311.920230
-e340837311.928938
-r1
-xTouch
-x/Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Touch /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app33a7ebbfc350b441^2dd1edbfc350b441^---0#0#0#--223"Touch bin/TextExtruderDebug.app    cd /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example    /usr/bin/touch -c /Users/rick/OpenFrameworks007/apps/Art+Code/ofxFontExtruder-example/bin/TextExtruderDebug.app36"A1C50EB4-F3D4-4D07-93ED-70CE09E555EA-
-
