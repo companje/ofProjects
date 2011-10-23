@@ -1,6 +1,6 @@
 #include "testApp.h"
 
-string text = "ART&&CODE";
+string text = "CODE"; //ART\n&&\nCODE";
 string fontName = "fonts/I_am_online_with_u.ttf";
 
 //--------------------------------------------------------------
@@ -14,7 +14,7 @@ void testApp::setup() {
 
     font.loadFont(fontName, 100, true, true, true);
     font.thickness = 50;
-    font.setLetterSpacing(.95);
+    font.setLetterSpacing(1.05);
 }
 
 //--------------------------------------------------------------
@@ -47,8 +47,10 @@ void testApp::draw() {
 void testApp::keyPressed(int key) {
     switch (key) {
         case OF_KEY_BACKSPACE: if (text.length()>0) text.erase(text.end()-1); break;
-        case OF_KEY_RETURN: font.saveSTL(text, "models/"+text+".stl"); break;
-            //system(("open \""+ofToDataPath(text+".stl")+"\"").c_str());            
+        case OF_KEY_RETURN: 
+            font.saveSTL(text, "models/"+text+".stl"); 
+            system(("open \""+ofToDataPath("models/"+text+".stl")+"\"").c_str());
+            break;
         case OF_KEY_UP: font.thickness+=5; if (font.thickness>300) font.thickness=300; break;
         case OF_KEY_DOWN: font.thickness-=5; if (font.thickness<5) font.thickness=5; break;
         default: if (key>=32 && key<127) text.append(1,(char)key);
